@@ -1,4 +1,4 @@
-See the overview of the project at https://attestation.app/about.
+sSee the overview of the project at https://attestation.app/about.
 
 ## Installation guide
 
